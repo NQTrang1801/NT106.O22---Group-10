@@ -11,7 +11,7 @@ using System.Text.RegularExpressions;
 using System.Management;
 using System.Runtime.InteropServices;
 
-namespace FileSystemExplorer
+namespace WindowExplorerUI
 {
         
     public partial class Explorer : Form

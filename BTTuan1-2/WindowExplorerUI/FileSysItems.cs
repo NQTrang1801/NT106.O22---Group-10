@@ -12,7 +12,7 @@ using System.Runtime.Serialization.Formatters;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace FileSystemExplorer
+namespace WindowExplorerUI
 {
     public class FileSysItems : System.Collections.CollectionBase
     {

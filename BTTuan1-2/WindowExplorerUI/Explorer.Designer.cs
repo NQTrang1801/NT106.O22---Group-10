@@ -97,6 +97,7 @@ namespace FileSystemExplorer
             this.txtpath.TabIndex = 3;
             this.txtpath.Text = "";
             this.txtpath.Click += new System.EventHandler(this.txtpath_Click);
+            this.txtpath.TextChanged += new System.EventHandler(this.txtpath_TextChanged);
             this.txtpath.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtpath_KeyDown);
             this.txtpath.Leave += new System.EventHandler(this.txtpath_Leave);
             // 
